@@ -1,0 +1,22 @@
+
+.grid{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.turn-highlight{
+    color: white;
+}
+
+.reset{
+    background-color: rgb(225, 21, 45);
+    border-color:rgb(225, 21, 45);
+    padding: 6px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: white;
+}
